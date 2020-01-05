@@ -1,0 +1,9 @@
+E:\Repos\MC Status\MC Status\bin\Release\MC Status.exe.config
+E:\Repos\MC Status\MC Status\bin\Release\MC Status.exe
+E:\Repos\MC Status\MC Status\bin\Release\MC Status.pdb
+E:\Repos\MC Status\MC Status\obj\Release\MC Status.csprojAssemblyReference.cache
+E:\Repos\MC Status\MC Status\obj\Release\MC_Status.MCStatus.resources
+E:\Repos\MC Status\MC Status\obj\Release\MC_Status.Properties.Resources.resources
+E:\Repos\MC Status\MC Status\obj\Release\MC Status.csproj.GenerateResource.cache
+E:\Repos\MC Status\MC Status\obj\Release\MC Status.exe
+E:\Repos\MC Status\MC Status\obj\Release\MC Status.pdb
